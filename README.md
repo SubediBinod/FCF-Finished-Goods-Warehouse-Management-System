@@ -108,6 +108,44 @@ This system digitizes warehouse operations including:
 
 ---
 
+## 🚫 Source Code Access
+
+This repository is intended as a public project showcase and portfolio case study.
+
+Due to company confidentiality, internal business logic, and deployment security considerations, the production source code is not publicly available.
+
+For technical discussions, architecture walkthroughs, collaboration opportunities, or private demonstrations, feel free to get in touch.
+
+---
+
+## 📄 License
+
+This project is proprietary and not open source.
+
+All rights reserved © 2026 Binod Subedi.
+
+---
+
+## 📬 Contact
+
+If you'd like to discuss the project, collaborate, or request a private walkthrough:
+
+* 📧 Email: [bidhaksubedi77@gmail.com](mailto:bidhaksubedi77@gmail.com)
+* 🌐 Portfolio: https://binodsubedi15.com.np/
+
+---
+
+## 👨‍💻 Developed By
+
+Binod Subedi
+Backend-focused Full Stack Developer specializing in:
+
+* Spring Boot enterprise applications
+* Warehouse & inventory systems
+* Agricultural supply chain software
+* Internal operational platforms
+
+
 
 
 
