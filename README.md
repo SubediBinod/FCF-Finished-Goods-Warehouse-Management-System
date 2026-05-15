@@ -54,6 +54,7 @@ This system digitizes warehouse operations including:
 * Inward logs
 * Dispatch logs
 * Transfer logs
+* Download Records
 * User activity tracking
 
 ---
@@ -77,9 +78,39 @@ This system digitizes warehouse operations including:
 
 ## 📸 Screenshots
 
-(Add blurred UI images here)
+**Login Page**
+<img width="1911" height="923" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/5cf27c1b-bb5f-41ef-aa5e-cce606c03248" />
 
 ---
+**Dashboard**
+<img width="1920" height="934" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/6a6d1f99-e361-4f35-9902-dcbebf06f4c2" />
+
+---
+**Product Entry**
+<img width="1920" height="1080" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/284d66e6-5c71-4960-9778-5e19e088322e" />
+
+---
+**Dispatch Product**
+<img width="1920" height="1080" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/03536ce6-01a9-42bc-9446-fd27f28b053e" />
+
+---
+**Product Transfer**
+<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/867f516c-a9c5-41c8-a6a1-301412b0460a" />
+
+---
+**View Pallet**
+<img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/a6594911-ebc8-4856-808c-0288e29ac152" />
+
+---
+
+**Report Keeping**
+<img width="1920" height="1080" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/2db4bdf1-381d-4bf1-9bae-66260fa2964f" />
+
+---
+
+
+
+
 
 ## 👨‍💻 Developed By
 
